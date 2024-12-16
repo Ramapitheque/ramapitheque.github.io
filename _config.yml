@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Marc Wang # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Azure Solution Architect | Admin of System, Network,D365, SQL | Self-Hosting Enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog,Marc Wang,Azure,Network,D365,Docker,SQL
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -94,11 +94,11 @@ theme_mode: # [light | dark]
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
-# e.g. 'https://cdn.com'
+# e.g. 'https://app.box.com/s/uqr3zi0q4152nco4fqmua4aeend2pe5o'
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4E03AQGGwXVI1wOGoA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726248454977?e=1740009600&v=beta&t=5WOLo4V6NP9TrVgX-Y1svml_Q0ft_9NGWCBOKfH__n4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
