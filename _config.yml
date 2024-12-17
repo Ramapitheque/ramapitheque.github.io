@@ -16,7 +16,7 @@ timezone: America/Toronto
 
 title: Marc Wang # the main title
 
-tagline: Azure Solution Architect | Admin for Vitualization,DataBase,D365,AD,Network | Self-Hosting Enthusiast # it will display as the subtitle
+tagline: Azure Solution Architect | Virtualization,Digital Transformation | Self-Hosting Enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog,Marc Wang,Azure,Network,D365,Docker,SQL
