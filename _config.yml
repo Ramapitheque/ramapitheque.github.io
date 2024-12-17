@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Toronto
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Marc Wang # the main title
 
-tagline: Azure Solution Architect | Admin of System, Network,D365, SQL | Self-Hosting Enthusiast # it will display as the subtitle
+tagline: Azure Solution Architect | Admin for Vitualization,DataBase,D365,AD,Network | Self-Hosting Enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog,Marc Wang,Azure,Network,D365,Docker,SQL
@@ -26,20 +26,20 @@ description: >- # used by seo meta and the atom feed
 url: "https://ramapitheque.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: ramapitheque # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: ramapitheque # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Marc Wang
+  email: marc@7nology.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/ramapitheque # change to your Twitter homepage
+    - https://github.com/ramapitheque # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -88,13 +88,13 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
-# e.g. 'https://app.box.com/s/uqr3zi0q4152nco4fqmua4aeend2pe5o'
+# e.g. 'https://cdn.com'
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
