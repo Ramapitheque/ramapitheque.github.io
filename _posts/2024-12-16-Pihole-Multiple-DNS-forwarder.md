@@ -4,6 +4,7 @@ date:  2024-12-16
 categories: [Networking,Docker]
 tags: [pihole,dns,domain,config,docker]
 ---
+![image info](/assets/images/pihole-dns-forwarder.png)
 
 # Config for Multiple Domain and Multiple VLAN
 
@@ -11,7 +12,7 @@ tags: [pihole,dns,domain,config,docker]
 Multiple DNS Domain, Multiple VLAN, Multiple Remote DNS Domain Via VPN Tunnel
 ### Challenge:
 Configure multiple DNS forwarder in Pihole
-### Prolblem:
+### Problem:
 Pihole DNS forwarder only allow setup 1 entry from Gui
 ### Solution:
 Create Customized config file
